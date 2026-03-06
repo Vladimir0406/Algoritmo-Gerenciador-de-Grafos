@@ -1,5 +1,5 @@
 # Algoritmo gerenciador de Grafos
- Um repositório para o desenvolvimento de um trabalho sobre Grafos, abordando conceitos iniciais no tema e alguns algoritmos, como DFS, BFS e Kruskal.
+ Um repositório para o desenvolvimento de um trabalho sobre Grafos, abordando conceitos essênciais no tema e os algoritmos de DFS, BFS, Prim, Dijikstra e Kruskal.
  
 # Descrição 
  Este Algorimo foi implementado com o objetivo melhorar os conhecimentos da Teoria de Grafos, produzindo uma aplicação capaz de ler, exibir e analizar grafos tanto poderados como não ponderados.
